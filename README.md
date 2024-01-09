@@ -1,5 +1,4 @@
-<img src="https://giphy.com/gifs/food-fire-animal-26xBwmgBDUs9G2uFG" margin-left: auto;
-           margin-right: auto; width: 20%;>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 20%;" src="https://giphy.com/gifs/food-fire-animal-26xBwmgBDUs9G2uFG">
 # Hi, I'm Ollie
 My pronouns are they / them. 
 ## I'm currrently learning:
