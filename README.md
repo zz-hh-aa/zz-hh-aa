@@ -10,7 +10,6 @@ My pronouns are they / them.
 - 📚 fiction
 - 💻 web3
 - 🔈 electronic music
-- 🐌 degrowth
 ## Some cool websites I like are:
 - 🥕 [The Carrot2 info-classifying search engine](https://search.carrot2.org/#/search/web)
 - ☀️ [Low Tech Magazine's low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/)
