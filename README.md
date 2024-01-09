@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+<img src="https://giphy.com/gifs/food-fire-animal-26xBwmgBDUs9G2uFG">
+</div>
 # Hi, I'm Ollie
 My pronouns are they / them. 
 ## I'm currrently learning:
