@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**zz-hh-aa/zz-hh-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Ollie
+___
+## 🛠️ Learning
+- <img height=20px href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"> HTML
+- <img height=20px href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> CSS
+- <img height=20px href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> JavaScript
+- <img height=20px href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> Python
+___
+## 📖 Interests 
+- 🪴 permaculture
+- 📚 fiction
+- 💻 web3
+- 🔈electronic music
