@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Ollie
-My pronouns are they / them. 
+My pronouns are they / them. <br>
 I research, write and (am learning how to) code!
 ## I'm currrently learning:
 - <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"> HTML
