@@ -10,11 +10,7 @@ I research, write and (am learning how to) code!
 - <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> CSS
 - <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> JavaScript
 - <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> Python
-## Other interests of mine include: 
-- 🪴 permaculture
-- 📚 fiction
-- 💻 web3
-- 🔈 electronic music
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zz-hh-aa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ## Some cool websites I like are:
 - 🥕 [The Carrot2 info-classifying search engine](https://search.carrot2.org/#/search/web)
 - ☀️ [Low Tech Magazine's low-tech website and guide](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/)
